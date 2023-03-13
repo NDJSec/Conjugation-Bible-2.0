@@ -1,11 +1,11 @@
 import random
-import Español_Presente as EP
-import Español_Gerundios as EG
-import Español_Imperfecto as EI
-import Italiano_Presente as IP
-import Italiano_Gerundi as IG
-import Italiano_Imperfetto as II
-import Italiano_Passato_Prossimo as IPP
+import PySrc.Español_Presente as EP
+import PySrc.Español_Gerundios as EG
+import PySrc.Español_Imperfecto as EI
+import PySrc.Italiano_Presente as IP
+import PySrc.Italiano_Gerundi as IG
+import PySrc.Italiano_Imperfetto as II
+import PySrc.Italiano_Passato_Prossimo as IPP
 
 def Omnia():
     Verbum_Temporis = [
@@ -121,7 +121,8 @@ def Romance_Dominus():
         while 1:
             Omnia()
 
-Romance_Dominus()
+if __name__ == "__main__":
+    Romance_Dominus()
 
 '''''
 Next up is... 
