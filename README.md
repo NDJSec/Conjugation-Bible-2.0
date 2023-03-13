@@ -1,5 +1,5 @@
 # Conjugation-Bible-2.0
-        About the Program
+## About the Program
 This program is designed to help language learners practice verb conjugations in 
 Spanish, Portuguese, Italian, and/or French.   Although it is still under 
 construction, the goal is that eventually, every tense in each of the four 
@@ -7,7 +7,7 @@ languages will be available, and every model verb (stem changers, irregulars,
 etc.) will be represented.  This is a project that I started on Quizlet back before I knew how to code and when Quizlet was free (I know, that's so low tech. It's fine though because I'm evolving).
 Also, in each file besides the main file (Romance_Dominus.py), I provided a note section on how each tense was formed, which should help to understand both the logic of the code and the logic of the grammar.  Feedback & corrections are also provided for the user when they get a question wrong. 
 
-        Tips & Encouragement
+## Tips & Encouragement
      
 In my experience, learning new romance languages is easier when learned in 
 I was afraid that learning French in close proximity to Spanish would cause me to forget my Spanish, but 
